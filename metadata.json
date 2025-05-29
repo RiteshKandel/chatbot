@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Chatbot",
+  "description": "A responsive AI chatbot application using the Gemini API, built with React, TypeScript, and Tailwind CSS. It features real-time streaming of AI responses."
+}
